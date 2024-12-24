@@ -19,7 +19,7 @@ Easy Run is an app focused on helping you maintain a goal of running consistentl
 ## Backend
 This application was developed using NestJs and the TypeORM library, a MySQL database and Docker. To run the backend of the application, you need to follow these steps to configure the project:
 
-### If You Don't Have a MySQL Database (Recommended)
+### If You Don't Have a MySQL Database (Recommended step)
 If you don't have a MySQL database on your computer, you'll need to install it or create a Docker instance to run the application. I personally recommend this step to avoid environment conflicts. Even if you already have MySQL, I suggest following this step.
 
 Inside the project, you'll find a `docker` folder, which contains a `docker-compose.yml` file already configured to create the database for you:

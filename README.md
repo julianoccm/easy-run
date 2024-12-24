@@ -13,7 +13,7 @@ Easy Run is an app focused on helping you maintain a goal of running consistentl
 - Total running time in the month
 - Interactive maps for your runs
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/9d3bd05b-c62b-4ff5-b03b-542a8a57187d" /> </p>
+<p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/9d3bd05b-c62b-4ff5-b03b-542a8a57187d" /> </p>
     
 
 ## Backend

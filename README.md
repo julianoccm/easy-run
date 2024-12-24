@@ -1,11 +1,10 @@
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/7d696231-160d-42ca-ba8c-665cbe34a1e8" /> 
+<p align="center"> <img src="https://github.com/user-attachments/assets/ab6f6057-7c84-4412-a6a5-af11d1abb328" /></p>
+<br/>
+<p align="center"><img src="https://skillicons.dev/icons?i=nestjs,flutter,mysql" /></p>
 <h1 align="center"> Easy Run </h1></p>
 
 Easy Run is an app focused on helping you maintain a goal of running consistently! It uses a goal system to encourage you and keep track of your runs.
-
-## Tech Stack
-<p align="center"><img src="https://skillicons.dev/icons?i=nestjs,flutter,mysql" /></p>
 
 ## Key Features of the App
 - Monthly target system

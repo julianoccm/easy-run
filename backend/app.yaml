@@ -1,0 +1,11 @@
+runtime: nodejs18
+
+env_variables:
+    DB_HOST: '<HOST>'
+    DB_PORT: 3306
+    DB_USERNAME: '<USERNAME>'
+    DB_PASSWORD: '<PASSWORD>'
+    DB_NAME: 'easy_run'
+
+service: default
+

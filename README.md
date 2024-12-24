@@ -1,7 +1,7 @@
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/ab6f6057-7c84-4412-a6a5-af11d1abb328" /></p>
 <br/>
-<p align="center"><img src="https://skillicons.dev/icons?i=nestjs,flutter,mysql" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=nestjs,flutter,mysql,docker,gcp" /></p>
 <h1 align="center"> Easy Run </h1></p>
 
 Easy Run is an app focused on helping you maintain a goal of running consistently! It uses a goal system to encourage you and keep track of your runs.
@@ -17,7 +17,7 @@ Easy Run is an app focused on helping you maintain a goal of running consistentl
     
 
 ## Backend
-This application was developed using NestJs and the TypeORM library, with a MySQL database. To run the backend of the application, you need to follow these steps to configure the project:
+This application was developed using NestJs and the TypeORM library, a MySQL database and Docker. To run the backend of the application, you need to follow these steps to configure the project:
 
 ### If You Don't Have a MySQL Database (Recommended)
 If you don't have a MySQL database on your computer, you'll need to install it or create a Docker instance to run the application. I personally recommend this step to avoid environment conflicts. Even if you already have MySQL, I suggest following this step.

@@ -42,7 +42,7 @@ export DB_HOST='<HOST>'
 export DB_PORT=3306
 export DB_USERNAME='<USERNAME>'
 export DB_PASSWORD='<PASSWORD>'
-export DB_NAME='easy_run'
+export DB_NAME='easyrun'
 ```
 
 Alternatively, you can change the values in the file: `backend/src/infra/database/typeorm-config.module.ts`.
